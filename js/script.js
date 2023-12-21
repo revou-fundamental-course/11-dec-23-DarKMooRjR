@@ -1,0 +1,1 @@
+prompt("Halo, Siapakah nama anda?", "")
